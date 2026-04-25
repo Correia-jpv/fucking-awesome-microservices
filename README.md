@@ -64,6 +64,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Sites & Organizations](#sites--organizations)
 - [License](#license)
 - [Contributing](#contributing)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Platforms
 
