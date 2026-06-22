@@ -273,6 +273,7 @@ A curated list of Microservice Architecture related principles and technologies.
 > Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
 
 - [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
+- [Apache APISIX](https://apisix.apache.org/) - High-performance, real-time API gateway and AI gateway built on NGINX and etcd, with hot-reloaded routing and 100+ plugins.
 - [APIcast](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 - [Bunker Web](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
