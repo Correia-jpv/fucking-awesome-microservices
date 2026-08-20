@@ -265,13 +265,11 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) :star: - A curated list of resources about Micro Frontends.
 - [Electrode](https://github.com/electrode-io) - Universal React/Node.js application platform.
 - [Micro Frontends](https://micro-frontends.org) - Extending the microservice idea to frontend development.
-- [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) - MiniApp standardization white paper.
+- [MiniApp White Paper](https://w3c.github.io/miniapp-white-paper/) - MiniApp standardization white paper.
 
 ## Capabilities
 
 ### API Gateways / Edge Services
-
-> Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
 
 - [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 - [Apache APISIX](https://apisix.apache.org/) - High-performance, real-time API gateway and AI gateway built on NGINX and etcd, with hot-reloaded routing and 100+ plugins.
@@ -473,7 +471,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [RestQA](https://github.com/restqa/restqa) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
 - [Specmatic](https://specmatic.io) - Converts API specifications (OpenAPI, AsyncAPI, GraphQL, gRPC etc) into executable contracts for automated testing, service virtualisation, and backward compatibility validation without writing code.
-- [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) - TDD to the level of software architecture.
 - [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
 - [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
