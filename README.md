@@ -394,6 +394,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Reactivity
 
+- [Arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine to transform, filter, aggregate, and join data streams by writing SQL.
 - [Reactor.io](https://github.com/reactor) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka](https://github.com/akka/alpakka-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
