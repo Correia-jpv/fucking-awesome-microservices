@@ -445,26 +445,21 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage
 
-- [Alluxio](https://github.com/Alluxio/alluxio) - Virtual distributed storage system.
 - [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 - [Aerospike (c)](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
-- [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 - [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
 - [Couchbase](https://github.com/couchbase) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
-- [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
-- [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-- [Pilosa](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 - [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
-- [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
 - [TiKV](https://github.com/tikv) - Distributed transactional key-value database.
+- [TimescaleDB](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension.
 - [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
 
 ### Testing
